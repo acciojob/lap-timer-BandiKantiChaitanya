@@ -47,6 +47,7 @@ const App = () => {
     setMs(0);
     setSec(0);
     setMin(0);
+    setLap([])
   }
 
   function handleLap(){
